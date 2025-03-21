@@ -1,0 +1,21 @@
+
+[core]
+  client-version = "0.1.0"
+  language = "cedar"
+
+[ledger]
+
+  [ledger."origin/197102289968/sample"]
+    head = true
+    ledgerid = "359f7ed82fac42f0a438f4f80174c52a"
+    ledgername = "sample"
+    ref = "refs/remotes/origin/197102289968/359f7ed82fac42f0a438f4f80174c52a"
+    remote = "origin"
+    zoneid = 197102289968
+
+[remote]
+
+  [remote.origin]
+    papport = 9092
+    server = "localhost"
+    zapport = 9091
