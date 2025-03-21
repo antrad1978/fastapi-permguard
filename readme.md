@@ -1,6 +1,6 @@
 # Permguard sample for FastAPI using Permguard Python SDK
 
-##Credentials
+## Credentials
 #### password = Password123
 
 ### Commands via Permguard CLI:
