@@ -1,4 +1,7 @@
-### password = Password123
+# Permguard sample for FastAPI using Permguard Python SDK
+
+##Credentials
+#### password = Password123
 
 ### Commands via Permguard CLI:
 #### antonioradesca@My-MacBook-Pro: permguard zones create --name demozone
